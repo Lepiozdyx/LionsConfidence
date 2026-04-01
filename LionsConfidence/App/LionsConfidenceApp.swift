@@ -1,15 +1,6 @@
 import SwiftUI
 import SwiftData
 
-@main
-struct LionsConfidenceApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
-
 struct ContentView: View {
     var body: some View {
         TabBarView()
