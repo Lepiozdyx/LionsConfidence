@@ -19,7 +19,7 @@ extension AppDelegate : UNUserNotificationCenterDelegate {
     }
     
     func formulateRequest(initialUrl: String) async -> String {
-        var result = initialUrl
+        let result = initialUrl
         return result
     }
     

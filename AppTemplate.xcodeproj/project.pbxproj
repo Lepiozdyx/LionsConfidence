@@ -8,19 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CE7115A62E6F181600BFCB5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7115A52E6F181600BFCB5A /* LaunchScreen.storyboard */; };
-		FA224E732F7D5E2500390BA7 /* SEExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E702F7D5E2500390BA7 /* SEExt.swift */; };
-		FA224E742F7D5E2500390BA7 /* YinYang.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E6A2F7D5E2500390BA7 /* YinYang.swift */; };
-		FA224E752F7D5E2500390BA7 /* MorningView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E642F7D5E2500390BA7 /* MorningView.swift */; };
-		FA224E762F7D5E2500390BA7 /* LogModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E5F2F7D5E2500390BA7 /* LogModel.swift */; };
-		FA224E772F7D5E2500390BA7 /* MorningModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E602F7D5E2500390BA7 /* MorningModel.swift */; };
-		FA224E782F7D5E2500390BA7 /* LionsConfidenceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E5C2F7D5E2500390BA7 /* LionsConfidenceApp.swift */; };
-		FA224E792F7D5E2500390BA7 /* DayModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E5E2F7D5E2500390BA7 /* DayModel.swift */; };
-		FA224E7A2F7D5E2500390BA7 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E682F7D5E2500390BA7 /* TabBarView.swift */; };
-		FA224E7B2F7D5E2500390BA7 /* FitExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E6E2F7D5E2500390BA7 /* FitExt.swift */; };
-		FA224E7C2F7D5E2500390BA7 /* GoldenHours.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E622F7D5E2500390BA7 /* GoldenHours.swift */; };
-		FA224E7D2F7D5E2500390BA7 /* KeyboardExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E6F2F7D5E2500390BA7 /* KeyboardExt.swift */; };
-		FA224E7E2F7D5E2500390BA7 /* StatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA224E662F7D5E2500390BA7 /* StatView.swift */; };
-		FA224E7F2F7D5E2500390BA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA224E6D2F7D5E2500390BA7 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,19 +27,6 @@
 		CE7115342E6F0AB000BFCB5A /* AppTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE7115A42E6F181600BFCB5A /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEF3187B2E72A659004E27D7 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
-		FA224E5C2F7D5E2500390BA7 /* LionsConfidenceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LionsConfidenceApp.swift; sourceTree = "<group>"; };
-		FA224E5E2F7D5E2500390BA7 /* DayModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayModel.swift; sourceTree = "<group>"; };
-		FA224E5F2F7D5E2500390BA7 /* LogModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogModel.swift; sourceTree = "<group>"; };
-		FA224E602F7D5E2500390BA7 /* MorningModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorningModel.swift; sourceTree = "<group>"; };
-		FA224E622F7D5E2500390BA7 /* GoldenHours.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoldenHours.swift; sourceTree = "<group>"; };
-		FA224E642F7D5E2500390BA7 /* MorningView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorningView.swift; sourceTree = "<group>"; };
-		FA224E662F7D5E2500390BA7 /* StatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatView.swift; sourceTree = "<group>"; };
-		FA224E682F7D5E2500390BA7 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
-		FA224E6A2F7D5E2500390BA7 /* YinYang.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YinYang.swift; sourceTree = "<group>"; };
-		FA224E6D2F7D5E2500390BA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FA224E6E2F7D5E2500390BA7 /* FitExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitExt.swift; sourceTree = "<group>"; };
-		FA224E6F2F7D5E2500390BA7 /* KeyboardExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardExt.swift; sourceTree = "<group>"; };
-		FA224E702F7D5E2500390BA7 /* SEExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SEExt.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -77,7 +51,6 @@
 		CE71152B2E6F0AB000BFCB5A = {
 			isa = PBXGroup;
 			children = (
-				FA224E722F7D5E2500390BA7 /* LionsConfidence */,
 				CE7115A52E6F181600BFCB5A /* LaunchScreen.storyboard */,
 				CE7115362E6F0AB000BFCB5A /* AppTemplate */,
 				CE7115352E6F0AB000BFCB5A /* Products */,
@@ -99,98 +72,6 @@
 				CEF3187B2E72A659004E27D7 /* UserNotifications.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		FA224E5D2F7D5E2500390BA7 /* App */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E5C2F7D5E2500390BA7 /* LionsConfidenceApp.swift */,
-			);
-			path = App;
-			sourceTree = "<group>";
-		};
-		FA224E612F7D5E2500390BA7 /* DataModels */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E5E2F7D5E2500390BA7 /* DayModel.swift */,
-				FA224E5F2F7D5E2500390BA7 /* LogModel.swift */,
-				FA224E602F7D5E2500390BA7 /* MorningModel.swift */,
-			);
-			path = DataModels;
-			sourceTree = "<group>";
-		};
-		FA224E632F7D5E2500390BA7 /* GoldenHours */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E622F7D5E2500390BA7 /* GoldenHours.swift */,
-			);
-			path = GoldenHours;
-			sourceTree = "<group>";
-		};
-		FA224E652F7D5E2500390BA7 /* Morning */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E642F7D5E2500390BA7 /* MorningView.swift */,
-			);
-			path = Morning;
-			sourceTree = "<group>";
-		};
-		FA224E672F7D5E2500390BA7 /* Stat */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E662F7D5E2500390BA7 /* StatView.swift */,
-			);
-			path = Stat;
-			sourceTree = "<group>";
-		};
-		FA224E692F7D5E2500390BA7 /* TabBar */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E682F7D5E2500390BA7 /* TabBarView.swift */,
-			);
-			path = TabBar;
-			sourceTree = "<group>";
-		};
-		FA224E6B2F7D5E2500390BA7 /* YinYang */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E6A2F7D5E2500390BA7 /* YinYang.swift */,
-			);
-			path = YinYang;
-			sourceTree = "<group>";
-		};
-		FA224E6C2F7D5E2500390BA7 /* Modules */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E632F7D5E2500390BA7 /* GoldenHours */,
-				FA224E652F7D5E2500390BA7 /* Morning */,
-				FA224E672F7D5E2500390BA7 /* Stat */,
-				FA224E692F7D5E2500390BA7 /* TabBar */,
-				FA224E6B2F7D5E2500390BA7 /* YinYang */,
-			);
-			path = Modules;
-			sourceTree = "<group>";
-		};
-		FA224E712F7D5E2500390BA7 /* Shared */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E6D2F7D5E2500390BA7 /* Assets.xcassets */,
-				FA224E6E2F7D5E2500390BA7 /* FitExt.swift */,
-				FA224E6F2F7D5E2500390BA7 /* KeyboardExt.swift */,
-				FA224E702F7D5E2500390BA7 /* SEExt.swift */,
-			);
-			path = Shared;
-			sourceTree = "<group>";
-		};
-		FA224E722F7D5E2500390BA7 /* LionsConfidence */ = {
-			isa = PBXGroup;
-			children = (
-				FA224E5D2F7D5E2500390BA7 /* App */,
-				FA224E612F7D5E2500390BA7 /* DataModels */,
-				FA224E6C2F7D5E2500390BA7 /* Modules */,
-				FA224E712F7D5E2500390BA7 /* Shared */,
-			);
-			path = LionsConfidence;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -260,7 +141,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA224E7F2F7D5E2500390BA7 /* Assets.xcassets in Resources */,
 				CE7115A62E6F181600BFCB5A /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,18 +152,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA224E732F7D5E2500390BA7 /* SEExt.swift in Sources */,
-				FA224E742F7D5E2500390BA7 /* YinYang.swift in Sources */,
-				FA224E752F7D5E2500390BA7 /* MorningView.swift in Sources */,
-				FA224E762F7D5E2500390BA7 /* LogModel.swift in Sources */,
-				FA224E772F7D5E2500390BA7 /* MorningModel.swift in Sources */,
-				FA224E782F7D5E2500390BA7 /* LionsConfidenceApp.swift in Sources */,
-				FA224E792F7D5E2500390BA7 /* DayModel.swift in Sources */,
-				FA224E7A2F7D5E2500390BA7 /* TabBarView.swift in Sources */,
-				FA224E7B2F7D5E2500390BA7 /* FitExt.swift in Sources */,
-				FA224E7C2F7D5E2500390BA7 /* GoldenHours.swift in Sources */,
-				FA224E7D2F7D5E2500390BA7 /* KeyboardExt.swift in Sources */,
-				FA224E7E2F7D5E2500390BA7 /* StatView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,6 +302,8 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Lion's Confidence - Ying Yang";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Allow access to the camera to take photos.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Allow access to the photo library to add photos.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
@@ -444,7 +314,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.confid.encey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -469,6 +339,8 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Lion's Confidence - Ying Yang";
+				INFOPLIST_KEY_NSCameraUsageDescription = "Allow access to the camera to take photos.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Allow access to the photo library to add photos.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = LaunchScreen;
@@ -479,7 +351,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.confid.encey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";

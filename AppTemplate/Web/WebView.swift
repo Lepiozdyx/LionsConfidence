@@ -11,7 +11,7 @@ struct WebView: View {
     var body: some View {
         ZStack {
             Color.clear.ignoresSafeArea()
-            WebViewManager(address: url)
+            WebViewManager(url: url)
         }
     }
 }
