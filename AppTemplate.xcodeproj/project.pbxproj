@@ -302,7 +302,6 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Lion's Confidence - Ying Yang";
-				INFOPLIST_KEY_NSCameraUsageDescription = "Allow access to the camera to take photos.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Allow access to the photo library to add photos.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -339,7 +338,6 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Lion's Confidence - Ying Yang";
-				INFOPLIST_KEY_NSCameraUsageDescription = "Allow access to the camera to take photos.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Allow access to the photo library to add photos.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
